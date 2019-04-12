@@ -1,6 +1,6 @@
 # Jump, jump!
 
-A very incomplete game project. It is a two-player runner with randomly generated levels. The collisions or the physics update are done incorrectly and cause glitches such as the player clipping into walls.
+It is a two-player runner with randomly generated levels. The collisions or the physics update are done incorrectly and cause glitches such as the player clipping into walls.
 
 ## Requirements
 
